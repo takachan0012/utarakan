@@ -1,3 +1,3 @@
 [submodule "front-end"]
 	path = front-end
-	url = https://github.com/takachan0012/utarakan/tree/main/front-end
+	url = https://github.com/takachan0012/utarakan-fe.git
